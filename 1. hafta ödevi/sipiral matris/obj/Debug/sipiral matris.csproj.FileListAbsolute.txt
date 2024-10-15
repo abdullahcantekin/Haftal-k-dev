@@ -1,0 +1,7 @@
+C:\Users\tekin\source\repos\sipiral matris\sipiral matris\bin\Debug\sipiral matris.exe.config
+C:\Users\tekin\source\repos\sipiral matris\sipiral matris\bin\Debug\sipiral matris.exe
+C:\Users\tekin\source\repos\sipiral matris\sipiral matris\bin\Debug\sipiral matris.pdb
+C:\Users\tekin\source\repos\sipiral matris\sipiral matris\obj\Debug\sipiral matris.csprojAssemblyReference.cache
+C:\Users\tekin\source\repos\sipiral matris\sipiral matris\obj\Debug\sipiral matris.csproj.CoreCompileInputs.cache
+C:\Users\tekin\source\repos\sipiral matris\sipiral matris\obj\Debug\sipiral matris.exe
+C:\Users\tekin\source\repos\sipiral matris\sipiral matris\obj\Debug\sipiral matris.pdb
